@@ -22,7 +22,7 @@ I'm a junior DevOps engineer with some expertise in BackEnd development using Ja
 
 This project provisions a local Ubuntu virtual machine using Vagrant and installs an Apache web server using Ansible. The Ansible playbook installs common utilities, sets up Apache (with support for both Debian and RedHat families), ensures the service is running, and deploys a simple HTML welcome page.
 
-![Simple_Ansible-lab_diagram](https://raw.githubusercontent.com/RecursiveDeveloper/static-media-content/refs/heads/main/Simple_Ansible-lab_diagram_2.png)
+![Simple_Ansible-lab_diagram](https://raw.githubusercontent.com/RecursiveDeveloper/static-media-content/refs/heads/main/Ansible_Apache-Diagram.png)
 
 ## Tech Stack 
 
